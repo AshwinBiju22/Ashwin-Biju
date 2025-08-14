@@ -5,9 +5,7 @@
 🏆 Achieved top-tier performance in competitive programming & algorithmic trading challenges  
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ashwin-biju22/))  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/AshwinBiju22))  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ashwinbiju2005@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ashwin-biju22/))  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/AshwinBiju22))  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ashwinbiju2005@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your-username)
 
 ---
 
