@@ -1,8 +1,7 @@
 # Hey, I'm Ashwin  
 🎓 2nd-year Comp Sci student @ **Imperial College London**  
-📊 Aspiring **Quant & Software Engineer** with a passion for ML, data, and trading systems  
-💡 Experienced in **full-stack development**, **machine learning**, and **low-latency data pipelines**  
-🏆 Achieved top-tier performance in competitive programming & algorithmic trading challenges  
+📊 Aspiring **Software Engineer** with a passion for ML, data, and trading systems  
+💡 Experienced in **full-stack development**, **machine learning**, and **low-latency data pipelines**    
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ashwin-biju22/))  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/AshwinBiju22)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your-username) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ashwinbiju2005@gmail.com)  
